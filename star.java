@@ -5,7 +5,7 @@
  * [run-instructions] Compile with `javac star.java`, then run using `appletviewer star.java`
  * [notes] Embedded tag must be JavaDoc-style 
  */
-   
+
 import java.awt.*;
 import java.applet.*;
 
